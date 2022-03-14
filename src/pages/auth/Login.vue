@@ -1,5 +1,7 @@
 <template>
-    <view class="login"></view>
+    <view class="login">
+
+    </view>
 </template>
 <script lang="ts" src="./Login.ts"></script>
 
