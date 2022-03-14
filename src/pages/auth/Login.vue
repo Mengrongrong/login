@@ -4,7 +4,6 @@
 <script lang="ts" src="./Login.ts"></script>
 
 <style lang="scss" scoped>
-
     .login {
         display: flex;
         align-items: center;
