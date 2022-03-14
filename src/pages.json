@@ -1,0 +1,14 @@
+{
+
+  "pages": [
+    {
+      "path": "pages/auth/Login",
+      "style": {
+        "transparentTitle": "auto",
+        "allowsBounceVertical": "NO",
+        "navigationStyle": "custom",
+        "navigationBarTitleText": ""
+      }
+    }
+  ]
+}
